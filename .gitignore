@@ -1,2 +1,6 @@
 env*/
 pyFTS-main/
+pyFTS-backup
+
+*.csv
+*.bz2

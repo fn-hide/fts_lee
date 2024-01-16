@@ -1,3 +1,0 @@
-"""
-Fuzzy Time Series methods
-"""

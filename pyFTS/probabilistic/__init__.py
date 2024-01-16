@@ -1,3 +1,0 @@
-"""
-Probability Distribution objects
-"""

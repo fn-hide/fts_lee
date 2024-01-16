@@ -1,7 +1,13 @@
 ## <div align="center">Documentation</div>
 See below for a quickstart installation and usage example:
 <details open>
-<summary>Install</summary>
+<summary>Clone & Install</summary>
+
+Clone this repository using code below.
+
+```bash
+git clone https://github.com/fn-hide/fts_lee.git
+```
 
 Pip install the pyFTS package including all [requirements](https://github.com/fn-hide/fts_lee/blob/main/requirements.txt).
 
